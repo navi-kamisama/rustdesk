@@ -1,4 +1,4 @@
-package com.carriez.flutter_hbb
+package com.my.rd.app
 
 import android.content.Context
 import android.content.Intent
